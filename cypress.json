@@ -1,8 +1,1 @@
-{
-    "reporter": "junit",
-    "reporterOptions": {
-        "mochaFile": "reports/junit/junit-[hash].xml",
-        "testsuitesTitle": true,
-        "testCaseSwitchClassnameAndName": true
-    }
-}
+{}
